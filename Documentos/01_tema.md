@@ -23,7 +23,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `Inclusão digital e redução de desigualdades`
-- Objeto estudado: `Dificuldade dos idosos e pessoas com deficiencias a navegação em sites, app e sistemas`
+- Objeto estudado: `Dificuldade dos idosos a navegação em sites, app e sistemas`
 - Contexto ou aplicação: `Acessibilidade`
 - Aspecto que será analisado: `Desenvolvimento de um guia prático de acessibilidade e boas práticas do uso de ferramentas digitais por idosos e pessoas com deficiência.`
 - O que ficará fora do estudo: `Livros e entrevistas`
@@ -31,7 +31,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Justificativa
 
 `O tema apresentado foi escolhido pelo grupo uma vez que a tecnologia evolui a cada circunstância conforme o seu cotidiano, 
-entretanto, pessoas da terceira idade ou com deficiências podem não conseguir acompanhar a evolução da tecnologia como indivíduos que já nasceram 
+entretanto, pessoas da terceira idade podem não conseguir acompanhar a evolução da tecnologia como indivíduos que já nasceram 
 com ela no meio e até mesmo pessoas que nasceram com deficien,tornando assim, pessoas vulneráveis no meio  `
 
 ### Viabilidade
