@@ -16,7 +16,7 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 ## Identificação geral
 
 - Curso e disciplina: `ADS - DESIGN PROFISSIONAL`
-- Professor ou orientador: `Isabella Luiza Dos Santos Souza`
+- Professor ou orientador: `Isabella Luiza dos Santos Souza`
 - Grupo: `[preencher]`
 - Integrantes: `Beatriz Naomi Murakami Pires - Giovana Bastos - Hugo Gabriel Araújo Honorato - Vinicius Lunardi Fernandes Peixoto`
 - Data de início: `24/09/2026`
