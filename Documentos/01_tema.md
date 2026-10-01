@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`Auxilio guia para orientação dos idosos e pessoas com deficiencias a navegação online`
+`Auxilio guia para orientação dos idosos a navegação online`
 
 ### Do tema amplo ao específico
 
