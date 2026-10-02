@@ -14,9 +14,9 @@ facilidade no acesso das ferramentas digitais `
 
 ## Objetivos específicos
 
-1. `Analisar o documento com cautela`
-2. `Coletar informações do documento`
-3. `Aplicar as fontes selecionadas no trabalho`
+1. `Identificar as estratégias mais eficientes`
+2. `Aplicar métodos para a inclusão da internet para os usuários da terceira idade`
+3. `Prover ferramentas que auxiliam um acesso mais intuitivo para os idosos`
 4. `[opcional]`
 
 ## Quadro de alinhamento
