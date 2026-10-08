@@ -6,8 +6,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. **Aprender a usar o telemóvel e ter autonomia** (A importância de aprender a usar redes sociais e mensagens para conversar com a família e ter independência no dia a dia).
-2. **Segurança no telemóvel e como evitar enganos** (Como proteger os idosos de burlas, chamadas falsas, ligações perigosas e notícias falsas na internet).
+1. **Aprender a usar o telefone e ter autonomia** (A importância de aprender a usar redes sociais e mensagens para conversar com a família e ter independência no dia a dia).
+2. **Segurança no telefone e como evitar enganos** (Como proteger os idosos de burlas, chamadas falsas, ligações perigosas, fakenews e golpes).
 3. **Direito de usar a tecnologia e não ser excluído** (A necessidade de ajudar os idosos a usar a tecnologia para não ficarem isolados ou sem acesso a serviços importantes).
 
 ---
@@ -16,8 +16,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|**1. Aprender a usar o telemóvel e ter autonomia**|DOMINGUES et al. (2021); Terceiro Artigo (2026)|Os dois concordo que aprender a usar o telemóvel ajuda o idoso a conversar com a família, fazer coisas sozinho e não se sentir sozinho.|Um foca mais no lado de fazer amigos e conversar; o outro foca que hoje em dia é obrigatório saber usar a tecnologia para viver bem.|Um estudou apenas um grupo pequeno de idosos que já queriam aprender; o outro só usou dados de pesquisas antigas e leis.|Faltam manuais simples que ensinem o idoso a aprender sozinho em casa, sem precisar de professor.|
-|**2. Segurança no telemóvel e como evitar enganos**|SOUZA et al. (2022); Terceiro Artigo (2026)|Os dois mostram que a falta de costume com o telemóvel faz o idoso cair em burlas, perder dinheiro e acreditar em notícias falsas.|Um dá atenção para o perigo das notícias falsas nas redes sociais; o outro dá atenção para o prejuízo no bolso e burlas de dinheiro.|Um estudou apenas idosos que já tinham telemóveis bons; o outro não conversou diretamente com idosos que sofreram burlas.|Faltam aplicações e ecrãs que avisem o idoso de forma simples quando algo for perigoso.|
+|**1. Aprender a usar o telemóvel e ter autonomia**|DOMINGUES et al. (2021); Terceiro Artigo (2026)|Os dois concordam que aprender a usar o telefone ajuda o idoso a conversar com a família, fazer coisas sozinho e não se sentir sozinho.|Um foca mais no lado de fazer amigos e conversar; o outro foca que hoje em dia é obrigatório saber usar a tecnologia para ser independente.|Um estudou apenas um grupo pequeno de idosos que já queriam aprender; o outro só usou dados de pesquisas antigas e leis.|Faltam manuais simples que ensinem o idoso a aprender sozinho em casa, sem precisar de professor.|
+|**2. Segurança no telefone e como evitar enganos**|SOUZA et al. (2022); Terceiro Artigo (2026)|Os dois mostram que a falta de costume com o telefone faz o idoso cair em burlas/golpes, perder dinheiro e acreditar em notícias falsas.|Um dá atenção para o perigo das notícias falsas nas redes sociais; o outro dá atenção para o prejuízo no bolso e burlas de dinheiro.|Um estudou apenas idosos que já tinham telefones bons; o outro não conversou diretamente com idosos que sofreram burlas.|Faltam aplicações e ecrãs que avisem o idoso de forma simples quando algo for perigoso.|
 |**3. Direito de usar a tecnologia e não ser excluído**|Terceiro Artigo (2026); SOUZA et al. (2022); DOMINGUES et al. (2021)|Todos concordam que hoje tudo é digital e que não podemos deixar os idosos para trás sem saber usar a tecnologia.|Um trata o problema como um direito garantido por lei; os outros tratam como uma questão de ensino e prática.|Um fala de forma muito teórica sobre leis e não mostra soluções práticas para o dia a dia.|Faltam guias fáceis que juntem dicas de uso do telemóvel com dicas de segurança para o dia a dia.|
 
 ---
