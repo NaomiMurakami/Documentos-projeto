@@ -1,8 +1,8 @@
 ## Identificação do artigo
 
-- Referência completa: BERRY, T. et al. Usability of Mobile Applications for Older Adults: A Systematic Review. *International Journal of Environmental Research and Public Health*, v. 19, n. 15, p. 9211, 2022.
-- DOI ou URL: https://doi.org/10.3390/ijerph19159211
-- Base de origem: PubMed / MDPI
+- Referência completa: DOMINGUES, N. R. P. et al. Inclusão digital e participação social de idosos. *Estudos Interdisciplinares sobre o Envelhecimento*, v. 26, n. 1, p. 369-390, 2021.
+- DOI ou URL: https://doi.org/10.22456/2316-2171.102091
+- Base de origem: Estudos Interdisciplinares sobre o Envelhecimento (UFRGS) / Redalyc
 - Leitor responsável: Vinicius
 - Data da leitura: 08/10/2026
 
@@ -10,41 +10,41 @@
 
 ### Problema investigado
 
-As barreiras de usabilidade e acessibilidade enfrentadas pela população idosa ao interagir com aplicações móveis no quotidiano.
+Como o acesso e a capacitação no uso de mídias digitais e redes sociais influenciam a participação social e o sentimento de pertencimento de pessoas idosas em seus contextos diários.
 
 ### Objetivo do estudo
 
-Identificar e sintetizar as principais barreiras de usabilidade e determinar as diretrizes de design de interface móvel mais eficazes para utilizadores idosos.
+Analisar os efeitos de oficinas de inclusão digital focadas no uso de mídias sociais e ferramentas digitais sobre a participação social, autonomia e rotina de idosos.
 
 ### Método utilizado
 
-Revisão sistemática da literatura baseada no protocolo PRISMA.
+Estudo qualitativo e descritivo baseado na realização de oficinas pedagógicas digitais, acompanhadas de entrevistas pré e pós-intervenção e análise temática de conteúdo.
 
 ### Contexto, amostra ou dados
 
-Análise e síntese de 34 estudos empíricos focados na interação entre idosos e interfaces móveis touch.
+Participantes idosos integrantes de projetos de extensão universitária de inclusão digital em Curitiba/PR.
 
 ### Principais resultados
 
-Elementos como tamanho de fonte reduzido, baixo contraste de cor, ícones sem rótulo de texto explicativo e tempo limite curto de resposta constituem as maiores barreiras de utilização.
+O domínio de mídias digitais (com ênfase em aplicações de mensagens instantâneas e redes sociais) promoveu o estreitamento de laços intergeracionais, reduziu o isolamento e aumentou a confiança no acesso a serviços do quotidiano.
 
 ### Limitações apresentadas
 
-Grande heterogeneidade metodológica entre os estudos analisados e variação significativa no nível prévio de literacia digital dos participantes.
+Amostra restrita a participantes de um projeto de extensão universitária específico, o que reflete um grupo com alto interesse prévio e motivação para aprender.
 
 ### Contribuição para o nosso artigo
 
-Fornece o embasamento teórico para fundamentar os critérios visuais e operacionais de acessibilidade (tamanho de letra, contraste e clareza de ícones) que farão parte do nosso guia prático.
+Oferece fundamentação para a secção do guia voltada para **mídias sociais e comunicação**, demonstrando que o design de boas práticas nessas plataformas deve focar na redução do receio de erros operacionais e no estímulo à autonomia.
 
 ### Comentário crítico
 
-O artigo consolida de forma clara o consenso da literatura recente sobre inclusão digital da terceira idade, embora a maioria da amostra se concentre em estudos do hemisfério norte.
+O artigo traz uma abordagem humanizada ao conectar a tecnologia ao conceito de participação social. Contudo, poderia ter aprofundado a discussão sobre os riscos das mídias digitais para este público, como a vulnerabilidade a desinformação (*fake news*) e golpes virtuais.
 
 ### Citação literal opcional
 
-> Clear visual feedback and larger touch targets are critical to reducing errors and anxiety among older adults interacting with mobile screens.
+> Projetos de inclusão digital oferecidos a pessoas idosas podem contribuir para o aumento da participação social desta parcela da população, em seus contextos cultural, pessoal e virtual.
 
-Página: 9211
+Página: 388
 
 ## Checklist
 
