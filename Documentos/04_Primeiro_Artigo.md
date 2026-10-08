@@ -2,7 +2,7 @@
 
 - Referência completa: DOMINGUES, N. R. P. et al. Inclusão digital e participação social de idosos. *Estudos Interdisciplinares sobre o Envelhecimento*, v. 26, n. 1, p. 369-390, 2021.
 - DOI ou URL: https://doi.org/10.22456/2316-2171.102091
-- Base de origem: Estudos Interdisciplinares sobre o Envelhecimento (UFRGS) / Redalyc
+- Base de origem: Estudos Interdisciplinares sobre o Envelhecimento
 - Leitor responsável: Vinicius
 - Data da leitura: 08/10/2026
 
