@@ -1,7 +1,7 @@
 ## Identificação do artigo
 
 - Referência completa: SOUZA, L. A. S.; SANTOS, M. R.; SILVA, F. O. Literacia digital, mídias sociais e envelhecimento: um estudo sobre o consumo de informação e fake news por idosos no ecossistema digital. *Texto Livre: Linguagem e Tecnologia*, v. 15, e38491, 2022.
-- DOI ou URL: https://doi.org/10.35699/1983-3652.2022.38491
+- DOI ou URL: [[https://doi.org/10.35699/1983-3652.2022.38491](https://www.nature.com/articles/s41598-022-08437-0)](https://www.nature.com/articles/s41598-022-08437-0)
 - Base de origem: SciELO / Universidade Federal de Minas Gerais (UFMG)
 - Leitor responsável: Vinicius
 - Data da leitura: 08/10/2026
