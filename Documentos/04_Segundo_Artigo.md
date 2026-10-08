@@ -1,56 +1,55 @@
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+- Referência completa: MACIEL, A. C. et al. As pessoas idosas e as novas tecnologias: desafios para a inclusão digital e envelhecimento ativo. *Revista Brasileira de Geriatria e Gerontologia*, v. 25, e220089, 2022.
+- DOI ou URL: https://doi.org/10.1590/1981-22562022025.220089
+- Base de origem: SciELO
+- Leitor responsável: Vinicius
+- Data da leitura: 08/10/2026
 
 ## Fichamento
 
 ### Problema investigado
 
-`[preencher]`
+O hiato entre o avanço acelerado das tecnologias digitais e a capacidade da população idosa em adaptar-se ao uso de ferramentas essenciais do dia a dia (finanças, saúde e comunicação).
 
 ### Objetivo do estudo
 
-`[preencher]`
+Analisar os desafios enfrentados pelos idosos no acesso a ferramentas digitais e propor estratégias educacionais e de design para promover a inclusão digital.
 
 ### Método utilizado
 
-`[preencher]`
+Estudo reflexivo-analítico fundamentado em dados epidemiológicos e na literatura de gerontologia e tecnologia.
 
 ### Contexto, amostra ou dados
 
-`[preencher]`
+Contexto brasileiro recente (pós-pandemia), focado no uso diário de smartphones, aplicações de mensagens e serviços bancários.
 
 ### Principais resultados
 
-`[preencher]`
+Identificou-se que a falta de suporte adequado e a complexidade das interfaces causam insegurança e exclusão digital, enquanto programas de capacitação prática aumentam a autonomia e o bem-estar.
 
 ### Limitações apresentadas
 
-`[preencher]`
+Estudo de caráter predominantemente teórico e reflexivo, sem coleta de dados empíricos diretos com utilizadores por meio de testes de usabilidade.
 
 ### Contribuição para o nosso artigo
 
-`[Explique como este estudo ajuda a responder à pergunta da revisão.]`
+Traz a perspetiva da realidade social brasileira, ajudando a contextualizar a importância do guia prático como ferramenta de autonomia para o idoso.
 
 ### Comentário crítico
 
-`[Registre forças, fragilidades, concordâncias ou divergências.]`
+É um trabalho crucial para embasar a justificativa do projeto, pois conecta diretamente a inclusão digital com a qualidade de vida e o envelhecimento ativo na realidade nacional.
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> O hiato existente entre a longevidade e o avanço exponencial das tecnologias exige soluções que garantam as competências digitais da pessoa idosa.
 
-Página: `[número]`
+Página: 3
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
-
+- [x] O artigo foi lido além do resumo.
+- [x] O método e os resultados foram identificados.
+- [x] As limitações foram registradas.
+- [x] A conexão com o tema foi explicada.
+- [x] Toda citação literal contém página.
