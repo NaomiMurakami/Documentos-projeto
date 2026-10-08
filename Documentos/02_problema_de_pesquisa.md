@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `Beatriz, Giovana, Hugo, Vinicius` | `Criou repertório, Auxiliou na escrita, Proporcionou direção ` |
+| `Beatriz, Giovana, Hugo, Vinicius` | `Criou repertório, Auxiliou na escrita, Proporcionou direção, Checklist ` |
