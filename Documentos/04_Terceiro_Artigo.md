@@ -1,6 +1,6 @@
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
+* Referência completa: `A VULNERABILIDADE INFORMACIONAL E TECNOLÓGICA NA ERA DIGITAL: ANÁLISE DOS DESAFIOS ENFRENTADOS PELOS IDOSOS`
 * DOI ou URL: `[preencher]`
 * Base de origem: `[preencher]`
 * Leitor responsável: `[preencher]`
