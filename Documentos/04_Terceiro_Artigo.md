@@ -1,10 +1,10 @@
 ## Identificação do artigo
 
 * Referência completa: `A VULNERABILIDADE INFORMACIONAL E TECNOLÓGICA NA ERA DIGITAL: ANÁLISE DOS DESAFIOS ENFRENTADOS PELOS IDOSOS`
-* DOI ou URL: `[preencher]`
-* Base de origem: `[preencher]`
-* Leitor responsável: `[preencher]`
-* Data da leitura: `[dd/mm/aaaa]`
+* DOI ou URL: `(https://revistas.unaerp.br/cbpcc/pt_BR/article/view/3558)`
+* Base de origem: `Google Acadêmico`
+* Leitor responsável: `Beatriz Naomi`
+* Data da leitura: `08/10/2026`
 
 ## Fichamento
 
