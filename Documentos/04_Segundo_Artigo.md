@@ -10,40 +10,38 @@
 
 ### Problema investigado
 
-Os desafios e riscos vivenciados por idosos no ecossistema de mídias sociais, com foco no consumo, verificação de veracidade de informações e na vulnerabilidade à disseminação de *fake news*.
+Os obstáculos e perigos enfrentados por pessoas idosas no ambiente das redes sociais, com ênfase no uso, validação da veracidade de dados e na susceptibilidade à propagação de notícias falsas.
 
 ### Objetivo do estudo
 
-Analisar como os idosos interagem com as mídias digitais de informação e comunicação, identificando as suas práticas de checagem e as competências de alfabetização midiática necessárias para uma navegação segura.
+Examinar de que maneira os idosos se relacionam com as mídias digitais voltadas à informação e comunicação, reconhecendo seus hábitos de verificação e as habilidades de letramento midiático essenciais para uma navegação segura.
 
 ### Método utilizado
 
-Pesquisa exploratória de abordagem qualitativa, realizada por meio de grupos focais e questionários aplicados a utilizadores seniores de redes sociais e plataformas de mensagem.
-
+Estudo exploratório de natureza qualitativa, conduzido através de discussões em grupo e questionários direcionados a usuários mais velhos de redes sociais e serviços de mensagens.
 ### Contexto, amostra ou dados
 
-Estudo conduzido com idosos utilizadores ativos de mídias digitais (como WhatsApp e Facebook) no contexto urbano brasileiro.
+Investigação realizada com pessoas idosas que usam ativamente plataformas digitais (como WhatsApp e Facebook) no ambiente urbano do Brasil.
 
 ### Principais resultados
 
-A falta de familiaridade com a arquitetura das plataformas e com os mecanismos de verificação visual torna o público idoso mais suscetível a conteúdos enganosos; contudo, oficinas práticas de alfabetização midiática demonstraram elevar significativamente a capacidade crítica e a cautela no compartilhamento.
+A ausência de conhecimento sobre a estrutura das plataformas e os métodos de verificação visual faz com que a população idosa fique mais vulnerável a informações falsas; no entanto, workshops práticos de educação para a mídia mostraram aumentar de forma significativa a habilidade crítica e a precaução ao compartilhar conteúdos.
 
 ### Limitações apresentadas
 
-Amostra circunscrita a participantes com acesso prévio a smartphones e conectividade de banda larga, não cobrindo a realidade de idosos em situação de vulnerabilidade socioeconômica severa.
+A amostra se restringe a indivíduos que já possuem acesso a smartphones e internet de alta velocidade, não contemplando a realidade de idosos que enfrentam graves condições de vulnerabilidade socioeconômica.
 
 ### Contribuição para o nosso artigo
 
-Fundamenta a necessidade de incluir no nosso guia prático um capítulo dedicado à **segurança digital e letramento midiático**, com regras claras sobre como identificar links suspeitos, checar fontes e utilizar mídias digitais com responsabilidade.
+Baseia-se na importância de adicionar ao nosso manual prático uma seção voltada para a **segurança na internet e alfabetização midiática**, apresentando diretrizes precisas sobre como reconhecer links duvidosos, verificar fontes e usar mídias digitais de maneira consciente.
 
 ### Comentário crítico
 
-O trabalho aborda uma dimensão fundamental da inclusão digital contemporânea, indo além da usabilidade mecânica para discutir a segurança da informação. A sua maior virtude é demonstrar que o ensino de boas práticas deve abarcar o senso crítico no consumo de mídias.
+O texto explora um aspecto essencial da inclusão digital atual, transcendendo a mera funcionalidade para examinar a proteção de dados. Sua principal qualidade é mostrar que a educação sobre práticas adequadas deve incluir o pensamento crítico na utilização de mídias.
 
 ### Citação literal opcional
 
-> A literacia digital para idosos precisa ir além do manuseio técnico dos dispositivos, contemplando a capacidade de interpretar criticamente as informações que circulam nas mídias sociais.
-
+> A habilidade digital para pessoas mais velhas deve ultrapassar o simples uso técnico dos aparelhos, englobando a capacidade de analisar de forma crítica as informações que circulam nas redes sociais.
 Página: 8
 
 ## Checklist
