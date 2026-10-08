@@ -10,39 +10,39 @@
 
 ### Problema investigado
 
-Como o acesso e a capacitação no uso de mídias digitais e redes sociais influenciam a participação social e o sentimento de pertencimento de pessoas idosas em seus contextos diários.
+Como o acesso e a formação no uso de mídias digitais e redes sociais afetam o envolvimento social e a sensação de pertencimento de idosos em suas rotinas diárias.
 
 ### Objetivo do estudo
 
-Analisar os efeitos de oficinas de inclusão digital focadas no uso de mídias sociais e ferramentas digitais sobre a participação social, autonomia e rotina de idosos.
+Examinar os impactos de oficinas de inclusão digital voltadas para o uso de redes sociais e ferramentas digitais na participação social, autonomia e rotina de pessoas idosas.
 
 ### Método utilizado
 
-Estudo qualitativo e descritivo baseado na realização de oficinas pedagógicas digitais, acompanhadas de entrevistas pré e pós-intervenção e análise temática de conteúdo.
+Pesquisa qualitativa e descritiva fundamentada na execução de oficinas pedagógicas digitais, complementadas por entrevistas antes e depois da intervenção, além da análise temática do conteúdo.
 
 ### Contexto, amostra ou dados
 
-Participantes idosos integrantes de projetos de extensão universitária de inclusão digital em Curitiba/PR.
+Participantes idosos envolvidos em projetos de extensão universitária voltados à inclusão digital em Curitiba/PR.
 
 ### Principais resultados
 
-O domínio de mídias digitais (com ênfase em aplicações de mensagens instantâneas e redes sociais) promoveu o estreitamento de laços intergeracionais, reduziu o isolamento e aumentou a confiança no acesso a serviços do quotidiano.
+O domínio das mídias digitais, especialmente em relação a aplicativos de mensagens instantâneas e redes sociais, favoreceu a aproximação entre diferentes gerações, diminuiu o sentimento de solidão e elevou a confiança no uso de serviços do dia a dia.
 
 ### Limitações apresentadas
 
-Amostra restrita a participantes de um projeto de extensão universitária específico, o que reflete um grupo com alto interesse prévio e motivação para aprender.
+A amostra é composta apenas por participantes de um projeto de extensão universitária específico, o que indica um grupo com grande interesse prévio e motivação para aprender.
 
 ### Contribuição para o nosso artigo
 
-Oferece fundamentação para a secção do guia voltada para **mídias sociais e comunicação**, demonstrando que o design de boas práticas nessas plataformas deve focar na redução do receio de erros operacionais e no estímulo à autonomia.
+Fornece embasamento para a seção do guia dedicada à **comunicação e mídias sociais**, evidenciando que o design de boas práticas nessas plataformas deve priorizar a diminuição do medo de falhas operacionais e o incentivo à autonomia.
 
 ### Comentário crítico
 
-O artigo traz uma abordagem humanizada ao conectar a tecnologia ao conceito de participação social. Contudo, poderia ter aprofundado a discussão sobre os riscos das mídias digitais para este público, como a vulnerabilidade a desinformação (*fake news*) e golpes virtuais.
+O artigo apresenta uma perspectiva humanizada ao vincular a tecnologia à ideia de participação social. No entanto, poderia ter explorado mais os perigos das mídias digitais para esse público, como a susceptibilidade à desinformação (*fake news*) e fraudes online.
 
 ### Citação literal opcional
 
-> Projetos de inclusão digital oferecidos a pessoas idosas podem contribuir para o aumento da participação social desta parcela da população, em seus contextos cultural, pessoal e virtual.
+> Iniciativas de inclusão digital destinadas a idosos podem ajudar a expandir o envolvimento social desse grupo, em suas esferas cultural, individual e online.
 
 Página: 388
 
