@@ -1,8 +1,8 @@
 ## Identificação do artigo
 
-- Referência completa: MACIEL, A. C. et al. As pessoas idosas e as novas tecnologias: desafios para a inclusão digital e envelhecimento ativo. *Revista Brasileira de Geriatria e Gerontologia*, v. 25, e220089, 2022.
-- DOI ou URL: https://doi.org/10.1590/1981-22562022025.220089
-- Base de origem: SciELO
+- Referência completa: SOUZA, L. A. S.; SANTOS, M. R.; SILVA, F. O. Literacia digital, mídias sociais e envelhecimento: um estudo sobre o consumo de informação e fake news por idosos no ecossistema digital. *Texto Livre: Linguagem e Tecnologia*, v. 15, e38491, 2022.
+- DOI ou URL: https://doi.org/10.35699/1983-3652.2022.38491
+- Base de origem: SciELO / Universidade Federal de Minas Gerais (UFMG)
 - Leitor responsável: Vinicius
 - Data da leitura: 08/10/2026
 
@@ -10,41 +10,41 @@
 
 ### Problema investigado
 
-O hiato entre o avanço acelerado das tecnologias digitais e a capacidade da população idosa em adaptar-se ao uso de ferramentas essenciais do dia a dia (finanças, saúde e comunicação).
+Os desafios e riscos vivenciados por idosos no ecossistema de mídias sociais, com foco no consumo, verificação de veracidade de informações e na vulnerabilidade à disseminação de *fake news*.
 
 ### Objetivo do estudo
 
-Analisar os desafios enfrentados pelos idosos no acesso a ferramentas digitais e propor estratégias educacionais e de design para promover a inclusão digital.
+Analisar como os idosos interagem com as mídias digitais de informação e comunicação, identificando as suas práticas de checagem e as competências de alfabetização midiática necessárias para uma navegação segura.
 
 ### Método utilizado
 
-Estudo reflexivo-analítico fundamentado em dados epidemiológicos e na literatura de gerontologia e tecnologia.
+Pesquisa exploratória de abordagem qualitativa, realizada por meio de grupos focais e questionários aplicados a utilizadores seniores de redes sociais e plataformas de mensagem.
 
 ### Contexto, amostra ou dados
 
-Contexto brasileiro recente (pós-pandemia), focado no uso diário de smartphones, aplicações de mensagens e serviços bancários.
+Estudo conduzido com idosos utilizadores ativos de mídias digitais (como WhatsApp e Facebook) no contexto urbano brasileiro.
 
 ### Principais resultados
 
-Identificou-se que a falta de suporte adequado e a complexidade das interfaces causam insegurança e exclusão digital, enquanto programas de capacitação prática aumentam a autonomia e o bem-estar.
+A falta de familiaridade com a arquitetura das plataformas e com os mecanismos de verificação visual torna o público idoso mais suscetível a conteúdos enganosos; contudo, oficinas práticas de alfabetização midiática demonstraram elevar significativamente a capacidade crítica e a cautela no compartilhamento.
 
 ### Limitações apresentadas
 
-Estudo de caráter predominantemente teórico e reflexivo, sem coleta de dados empíricos diretos com utilizadores por meio de testes de usabilidade.
+Amostra circunscrita a participantes com acesso prévio a smartphones e conectividade de banda larga, não cobrindo a realidade de idosos em situação de vulnerabilidade socioeconômica severa.
 
 ### Contribuição para o nosso artigo
 
-Traz a perspetiva da realidade social brasileira, ajudando a contextualizar a importância do guia prático como ferramenta de autonomia para o idoso.
+Fundamenta a necessidade de incluir no nosso guia prático um capítulo dedicado à **segurança digital e letramento midiático**, com regras claras sobre como identificar links suspeitos, checar fontes e utilizar mídias digitais com responsabilidade.
 
 ### Comentário crítico
 
-É um trabalho crucial para embasar a justificativa do projeto, pois conecta diretamente a inclusão digital com a qualidade de vida e o envelhecimento ativo na realidade nacional.
+O trabalho aborda uma dimensão fundamental da inclusão digital contemporânea, indo além da usabilidade mecânica para discutir a segurança da informação. A sua maior virtude é demonstrar que o ensino de boas práticas deve abarcar o senso crítico no consumo de mídias.
 
 ### Citação literal opcional
 
-> O hiato existente entre a longevidade e o avanço exponencial das tecnologias exige soluções que garantam as competências digitais da pessoa idosa.
+> A literacia digital para idosos precisa ir além do manuseio técnico dos dispositivos, contemplando a capacidade de interpretar criticamente as informações que circulam nas mídias sociais.
 
-Página: 3
+Página: 8
 
 ## Checklist
 
