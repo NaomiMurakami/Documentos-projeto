@@ -8,7 +8,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Título claro e coerente com o tema]`
+`[Inclusão digital e redução de desigualdades na vida dos idosos]`
 
 ## Palavras-chave
 
