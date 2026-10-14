@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de análise.]`
+`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de anális.]`
 
 ## Revisão da literatura
 
