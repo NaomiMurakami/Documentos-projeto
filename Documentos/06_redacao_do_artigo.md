@@ -12,11 +12,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Palavras-chave
 
-`[palavra 1]; [palavra 2]; [palavra 3]`
+`[Idosos; [internet]; [inclusão]`
 
 ## Introdução
 
-`[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`[Atualmente, os idosos são um grupo vulneravel na questão da utilização à internet de uma forma segura e consciente, conforme a tecnologia vem se desenvolvendo dia após dia de uma forma acelerada na qual eles não conseguem acompanhar, com isso, este projeto visa criar facilidades de acesso, utilização e produtividade, que sejam possiveis em serem aplicadas através de coletas de documentos e artigos ]`
 
 ## Metodologia
 
