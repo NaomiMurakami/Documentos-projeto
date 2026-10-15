@@ -43,7 +43,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Resumo
 
-`[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
+`Refletir sobre os perigos que os usuários idosos podem sofrer por não saberem utilizar a internet, ter uma estimativa menor de golpes onde as vítimas idosos e eles saberem o que conseguem fazer com seus celulares. A metodologia utilizada seria a criação de um guia para auxiliar os idosos a como utilizarem a internet de forma segura e de forma produtiva. O principal achado, é que embora a tecnologia seja indispensável no mundo atual, ainda existem vários problemas que impedem que os idosos consigam utilizar a tecnologia. A criação de guias e aulas seja extremamente necessário para que possamos auxiliar os idosos.`
 
 ## Referências
 
