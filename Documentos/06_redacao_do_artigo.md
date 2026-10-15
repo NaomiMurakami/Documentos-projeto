@@ -8,15 +8,15 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 # Título
 
-`[Inclusão digital e redução de desigualdades na vida dos idosos]`
+`Inclusão digital e redução de desigualdades na vida dos idosos`
 
 ## Palavras-chave
 
-`[Idosos; [internet]; [inclusão]`
+`Idosos; internet; inclusão`
 
 ## Introdução
 
-`[Atualmente, os idosos são um grupo vulneravel na questão da utilização à internet de uma forma segura e consciente, conforme a tecnologia vem se desenvolvendo dia após dia de uma forma acelerada na qual eles não conseguem acompanhar, com isso, este projeto visa criar facilidades de acesso, utilização e produtividade, que sejam possiveis em serem aplicadas através de coletas de documentos e artigos ]`
+`Atualmente, os idosos são um grupo vulneravel na questão da utilização à internet de uma forma segura e consciente, conforme a tecnologia vem se desenvolvendo dia após dia de uma forma acelerada na qual eles não conseguem acompanhar, com isso, este projeto visa criar facilidades de acesso, utilização e produtividade, que sejam possiveis em serem aplicadas através de coletas de documentos e artigos `
 
 ## Metodologia
 
@@ -24,13 +24,14 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Revisão da literatura
 
-### `[Eixo 1]`
+### `Eixo 1: Aprender a usar o telefone e ter autonomia.`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`O primeiro eixo, destaca que a habilidade de manusear tecnologias básicas, aplicativos de mensagens é algo essencial para a independência dos idosos. Os estudos apontam que oficinas pedagógicas, principalmente nas oficinas práticas, ajudando a superar o receio/medo da utilização das tecnologias, assim reduzindo a sensação de solidão. Porém, há um empecilho recorrente, que seria alcançar os idosos que estão mais insolados.
+`
 
-### `[Eixo 2]`
+### `Eixo 2: Segurança no telefone e como evitar enganos.`
 
-`[Compare estudos, resultados, métodos e limitações.]`
+`Já o segundo eixo nos diz sobre os riscos enfrentados pelos os idosos, como as fakenews e golpes. Na ausência de conhecimento mínimo sobre a utilização das plataformas tornam esse público de alta vulnerabilidade de golpes. Mesmo que os treinamentos práticos aumentem a capacidade de navegar na internet, grande parte das pesquisas falta dados coletadas diretamente com vítimas de fraudes, focando assim apenas na teoria.`
 
 ### Síntese crítica
 
