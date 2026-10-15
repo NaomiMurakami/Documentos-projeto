@@ -35,11 +35,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+`Com base na análise conjunta dos eixos, é revelado convergências em relação à urgência de tornar os idosos capacitados a utilizarem a tecnologia para conseguirmos evitar o isolamento social, depressão e abalo financeiro. Alguns estudos focam e priorizam a autonomia afetiva e comunicativa, já outros priorizam a segurança das informações do usuário idoso. É notável a falta de guias práticas e acessíveis para esse público, instruindo eles a como navegar na internet.`
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+`Foi respondido o problema da pesquisa ao afirmar que as principais dificuldades dos idosos está na complexidade das interfaces e no letramento digital e também a segurança. Algumas afirmação, dizem que as iniciativas educacionais reduzem a vulnerabilidade desse idoso. As implicações futuras, é necessário o desenvolvimento de guias para usabilidade geral e adaptados, também politicas públicas em relação a inclusão digital para o público da terceira idade.`
 
 ## Resumo
 
@@ -47,13 +47,17 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`DOMINGUES, N. R. P. et al. Inclusão digital e participação social de idosos. Estudos Interdisciplinares sobre o Envelhecimento, v. 26, n. 1, p. 369-390, 2021.
+
+SOUZA, L. A. S.; SANTOS, M. R.; SILVA, F. O. Literacia digital, mídias sociais e envelhecimento: um estudo sobre o consumo de informação e fake news por idosos no ecossistema digital. Texto Livre: Linguagem e Tecnologia, v. 15, e38491, 2022.
+
+A VULNERABILIDADE INFORMACIONAL E TECNOLÓGICA NA ERA DIGITAL: ANÁLISE DOS DESAFIOS ENFRENTADOS PELOS IDOSOS. Cadernos de Pós-Graduação em Direito da UNISALESIANO, 2026.`
 
 ## Checklist
 
-* [ ] A introdução termina com o objetivo.
-* [ ] A metodologia descreve o processo realmente realizado.
-* [ ] A revisão compara os artigos.
-* [ ] A conclusão responde ao problema.
-* [ ] O resumo representa o texto completo.
+* [X] A introdução termina com o objetivo.
+* [X] A metodologia descreve o processo realmente realizado.
+* [X] A revisão compara os artigos.
+* [X] A conclusão responde ao problema.
+* [X] O resumo representa o texto completo.
 
