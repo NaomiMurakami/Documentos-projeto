@@ -6,47 +6,47 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `Inclusão digital e redução de desigualdades na vida dos idosos`
 * Versão revisada: `[número]`
-* Data: `[dd/mm/aaaa]`
-* Responsável pela conferência final: `[preencher]`
+* Data: `14/10/2026`
+* Responsável pela conferência final: `Beatriz e Vinícius`
 
 ## Revisão científica
 
-* [ ] Tema, problema e objetivos estão alinhados.
-* [ ] As conclusões respondem ao problema.
-* [ ] Não existem afirmações sem fonte quando a fonte é necessária.
-* [ ] As limitações do trabalho foram reconhecidas.
-* [ ] Não foram incluídos resultados inexistentes.
+* [X] Tema, problema e objetivos estão alinhados.
+* [X] As conclusões respondem ao problema.
+* [X] Não existem afirmações sem fonte quando a fonte é necessária.
+* [X] As limitações do trabalho foram reconhecidas.
+* [X] Não foram incluídos resultados inexistentes.
 
 ## Citações e referências
 
-* [ ] Toda obra citada aparece nas referências.
-* [ ] Toda referência listada foi citada no texto.
-* [ ] Citações diretas contêm página.
-* [ ] Autores, títulos, anos, DOI e links foram conferidos.
-* [ ] O padrão exigido foi aplicado de forma consistente.
+* [X] Toda obra citada aparece nas referências.
+* [X] Toda referência listada foi citada no texto.
+* [X] Citações diretas contêm página.
+* [X] Autores, títulos, anos, DOI e links foram conferidos.
+* [X] O padrão exigido foi aplicado de forma consistente.
 
 ## Escrita
 
-* [ ] O texto possui sequência lógica.
-* [ ] Os parágrafos apresentam uma ideia principal.
-* [ ] Foram corrigidos ortografia e concordância.
-* [ ] Repetições e frases vagas foram eliminadas.
-* [ ] O texto diferencia descrição de análise crítica.
+* [X] O texto possui sequência lógica.
+* [X] Os parágrafos apresentam uma ideia principal.
+* [X] Foram corrigidos ortografia e concordância.
+* [X] Repetições e frases vagas foram eliminadas.
+* [X] O texto diferencia descrição de análise crítica.
 
 ## Formatação
 
-* [ ] O template institucional foi respeitado.
-* [ ] Títulos e subtítulos estão padronizados.
-* [ ] Tabelas e figuras possuem identificação e fonte.
-* [ ] Margens, fonte, espaçamento e paginação foram conferidos.
+* [X] O template institucional foi respeitado.
+* [X] Títulos e subtítulos estão padronizados.
+* [X] Tabelas e figuras possuem identificação e fonte.
+* [X] Margens, fonte, espaçamento e paginação foram conferidos.
 
 ## Registro das correções
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`[preencher]`|`[preencher]`|`[preencher]`|`[nome]`|
+|`04`|`Preenchimento de um artigo antigo`|`Alterado o artigo`|`Vinícius`|
 
 
 
