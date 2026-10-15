@@ -20,7 +20,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Metodologia
 
-`[Informe o tipo de revisão, bases, estratégias de busca, período, critérios, triagem e forma de anális.]`
+`A revisão do projeto foi se basear na ideia pensada primeiramente conforme nos primeiros documentos preenchidos, onde foi informado nossos objetivos e prioridades. Nos baseamos em artigos presentes no Google Acadêmico que dentre muitos outros sites e fontes não sabemos se são confiáveis e verdadeiros. Pesquisar e ler com cautela, a fonte tem que demonstrar dados que eram compatíveis com o nosso tema. Nosso foco no começo das buscas era identificar os maiores problemas que os idosos enfrentam ao utilizar a internet. Priorizamos a busca por palavras chaves dentro dos artigos e compreender como elas se relacionavam.  `
 
 ## Revisão da literatura
 
